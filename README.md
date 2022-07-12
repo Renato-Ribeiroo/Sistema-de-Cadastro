@@ -1,1 +1,6 @@
-<h1>Projetos Machine learning</h1>
+<h1>Sistema de cadastro de jogos</h1>
+
+```
+node app.js
+```
+
